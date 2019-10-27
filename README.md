@@ -15,12 +15,11 @@ conda install -c anaconda keras
 conda install -c conda-forge tqdm
 
 # Step 4: Test Python Install
-$ python
->>> import tensorflow as tf
->>> import keras
->>> import numpy
->>> import matplotlib
->>> import tqdm
+import tensorflow as tf
+import keras
+import numpy
+import matplotlib
+import tqdm
 
 # Step 4: Install and Test R and RStudio
 Download and Install R: http://archive.linux.duke.edu/cran/
