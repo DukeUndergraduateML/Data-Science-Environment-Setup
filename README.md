@@ -31,7 +31,7 @@ Open RStudio application from Desktop to verify installation
 
 # Additional Resources
 Link to Workshop Presentation: \
-https://docs.google.com/presentation/d/1o0sPV9MBz45FxlK9IfyheU_JR-1MRop6QDjTLt4DI80/edit#slide=id.g655faf7e89_2_74 \
+https://docs.google.com/presentation/d/1o0sPV9MBz45FxlK9IfyheU_JR-1MRop6QDjTLt4DI80/edit#slide=id.g655faf7e89_2_74 
 
 Environment Setup Blog Post: \
 https://towardsdatascience.com/installing-keras-tensorflow-using-anaconda-for-machine-learning-44ab28ff39cb
