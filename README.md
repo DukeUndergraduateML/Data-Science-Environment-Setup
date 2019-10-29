@@ -41,6 +41,10 @@ Select the OS you would like DSS installed on. \
 NOTE: Dataiku comes with Python 2.7 but if you want to import custom Python 3 libraries they can do so here: (https://doc.dataiku.com/dss/latest/code-envs/index.html) \
 NOTE: If you want to utilize R with DSS, please use this link to setup: https://doc.dataiku.com/dss/latest/installation/r.html 
 
+
+# Variational Inference Workshop Python Notebook: \
+https://github.com/sergeassaad/VAE_tutorial/blob/master/VAE_sandbox.ipynb
+
 # Additional Resources
 Link to Workshop Presentation: \
 https://docs.google.com/presentation/d/1o0sPV9MBz45FxlK9IfyheU_JR-1MRop6QDjTLt4DI80/edit#slide=id.g655faf7e89_2_74 
