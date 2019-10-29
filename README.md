@@ -7,12 +7,14 @@ If you have Linux, once you download the .sh file, locate it in your directory a
 
 # Step 2: Create Virtual Environment
 conda create -n dsenv python=3.7 anaconda \
-conda activate dsenv → (dsenv) adi@vellal-MACH-WX9:~$ 
+conda activate dsenv (example output: (dsenv) adi@vellal-MACH-WX9:~$)
+
 
 # Step 3: Install TensorFlow, Keras, and Tqdm
 conda install -c conda-forge tensorflow \
 conda install -c anaconda keras  \
-conda install -c conda-forge tqdm 
+conda install -c conda-forge tqdm \
+conda install -c conda-forge matplotlib
 
 # Step 4: Test Python Install
 import tensorflow as tf \
@@ -21,13 +23,15 @@ import numpy \
 import matplotlib \
 import tqdm 
 
-# Step 5: Install and Test R and RStudio
+# Step 5: Jupyter Test and Deactivate Environment
+jupyter notebook (type this in terminal with environment activated) \
+ctrl + c (press these two keys to get terminal prompt back) \
+conda deactivate dsenv (use this to deactivate environment, and then you are free to close your terminal)
+
+# Step 6: Install and Test R and RStudio
 Download and Install R: http://archive.linux.duke.edu/cran/ \
 Download and Install RStudio: https://www.rstudio.com/products/rstudio/download/#download
-
 Open RStudio application from Desktop to verify installation
-
-
 
 # Additional Resources
 Link to Workshop Presentation: \
