@@ -42,7 +42,7 @@ NOTE: Dataiku comes with Python 2.7 but if you want to import custom Python 3 li
 NOTE: If you want to utilize R with DSS, please use this link to setup: https://doc.dataiku.com/dss/latest/installation/r.html 
 
 
-# Variational Inference Workshop Python Notebook: \
+# Variational Inference Workshop Python Notebook: 
 https://github.com/sergeassaad/VAE_tutorial/blob/master/VAE_sandbox.ipynb
 
 # Additional Resources
