@@ -33,6 +33,14 @@ Download and Install R: http://archive.linux.duke.edu/cran/ \
 Download and Install RStudio: https://www.rstudio.com/products/rstudio/download/#download
 Open RStudio application from Desktop to verify installation
 
+# Step 7: Dataiku DSS Environment Setup
+If you plan on attending Friday's Dataiku Workshop, please download Dataiku's DSS Free Community Edition here:
+https://www.dataiku.com/dss/trynow/free-edition/ \
+Select "Install Now" under FREE FOREVER \
+Select the OS you would like DSS installed on. \
+NOTE: Dataiku comes with Python 2.7 but if you want to import custom Python 3 libraries they can do so here: (https://doc.dataiku.com/dss/latest/code-envs/index.html) \
+NOTE: If you want to utilize R with DSS, please use this link to setup: https://doc.dataiku.com/dss/latest/installation/r.html 
+
 # Additional Resources
 Link to Workshop Presentation: \
 https://docs.google.com/presentation/d/1o0sPV9MBz45FxlK9IfyheU_JR-1MRop6QDjTLt4DI80/edit#slide=id.g655faf7e89_2_74 
